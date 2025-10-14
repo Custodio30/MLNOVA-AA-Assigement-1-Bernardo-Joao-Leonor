@@ -1,1 +1,3 @@
 assigment#1/notebooks/*.csv
+assigment#1/outputs/csv/*.csv
+data/*.csv
